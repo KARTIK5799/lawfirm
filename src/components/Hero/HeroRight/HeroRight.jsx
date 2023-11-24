@@ -6,7 +6,7 @@ const HeroRight=()=>{
     return(
         <>
         <div className={styles.wrapper}>
-        <img src={HeroImg} alt="Hero-Image" className={styles.heroImg} />
+        <img src={HeroImg} alt="Hero" className={styles.heroImg} />
         </div>
         </>
     )

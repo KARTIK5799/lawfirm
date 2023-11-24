@@ -44,7 +44,8 @@
     border-radius: 43px;
     border: none;
     padding: 0 20px;
-    opacity: 0.5;
+    opacity: 0.7;
+    color: var(--color-primary);
     background-color: var(--color-gray); 
   }
   

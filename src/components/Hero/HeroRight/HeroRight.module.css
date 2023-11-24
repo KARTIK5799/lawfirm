@@ -1,6 +1,7 @@
 .wrapper {
     display: flex;
     align-items: flex-start;
+    margin-top: 50px;
     justify-content: center;
     width: 50vw;
     height: 100vh;
