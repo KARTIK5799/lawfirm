@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: 50vw;
+    height: 100vh;
+}
+
+.heroImg {
+    width: 467.71px;
+    height: 544.71px;
+}

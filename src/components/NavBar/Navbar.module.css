@@ -1,0 +1,12 @@
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    color:var(--color-white); 
+    background-color: var(--color-black);
+  }
+  
+  
+  

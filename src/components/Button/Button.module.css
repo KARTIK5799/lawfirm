@@ -1,0 +1,34 @@
+.buttonNav {
+    Width: 172px;
+    Height: 47px;
+    border: 2px solid #FFFFFF;
+    background-color: var(--color-gray);
+    color: var(--color-white);
+    font-family: var(--body-font);
+    cursor: pointer;
+}
+
+.buttonNav:hover {
+    border: 2px solid var(--color-primary);
+    color: var(--color-primary)
+}
+
+.buttonHero {
+    width: 137px;
+    height: 62px;
+    border-radius: 43px;
+    background-color: var(--color-primary);
+    border: none;
+    position: absolute;
+    top: 6px;
+    right: 6px;
+ 
+}
+
+.buttonCard {
+    width: 121px;
+    height: 43px;
+    border-radius: 23.5px;
+    background-color: var(--color-primary);
+    border: none;
+}
