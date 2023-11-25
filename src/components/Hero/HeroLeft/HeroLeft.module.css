@@ -6,11 +6,10 @@
     margin-left: 150px;
     font-family: var(--body-font), sans-serif;
     width: 50vw;
-    height: 100vh;
     text-align: left;
     color: var(--color-white);
-
 }
+
 
 .heroHeading {
     font-size: 66px;
